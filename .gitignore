@@ -1,0 +1,19 @@
+# Virtual Environment (folder lingkungan Python lokal)
+.venv/
+env/
+venv/
+
+# Cache & Checkpoint Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Data & Output Dataset (ukuran besar & file hasil generate)
+src/data/
+*.csv
+
+# Konfigurasi IDE / Editor (Opsional)
+.vscode/
+.DS_Store
